@@ -5,19 +5,9 @@
 
 ---
 
-## **Table of Contents**  
-1. [Introduction](#introduction)  
-2. [Features](#features)  
-3. [Technologies Used](#technologies-used)  
-4. [Setup and Installation](#setup-and-installation)  
-5. [Usage](#usage)  
-6. [Contributors](#contributors)  
-7. [License](#license)  
-
----
-
 ## **Introduction**  
-Provide a detailed description of the project. Mention:  
+Provide a detailed description of the project. 
+Mention:  
 - The purpose of the project.  
 - The problem it solves.  
 - The target audience or intended users.  
@@ -77,6 +67,5 @@ List the contributors to the project:
 
 ---
 
-## **License**  
-State the license for the project (e.g., MIT, Apache 2.0):  
-This project is licensed under the [LICENSE_NAME] License. See the LICENSE file for details.
+## **Copyright Disclaimer**
+**By participating in GitRecQuest v.1.0.0, you agree that the event team has full access to your code and the right to modify it solely for the duration of the event. This right is limited to the event period and is solely for the purpose of improving the collaborative project and ensuring smooth operations. All modifications made by the event team will be strictly related to the event activities.**
