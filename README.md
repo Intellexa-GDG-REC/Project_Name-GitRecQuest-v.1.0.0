@@ -28,6 +28,8 @@ Mention the technologies, frameworks, and tools used in the project:
 - **Frameworks/Libraries:** e.g., React, Flask, etc.  
 - **Other Tools:** e.g., Git, Docker, etc.  
 
+Version Information:
+Please specify the version(s) of the tools, frameworks, and libraries you used in this project.
 ---
 
 ## **Setup and Installation**  
